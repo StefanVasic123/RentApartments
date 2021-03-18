@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://stefanvasic:montekristo90@cluster0.qty1j.mongodb.net/apartmanidb?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
